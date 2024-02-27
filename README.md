@@ -1,10 +1,9 @@
 # Google-OR-tools-scheduler-
-More of a mini project on how we can use schedulers in daily life to automate our tasks, I've used google OR tools. 
-Open-Source Scheduler Tools
+More of a mini project on how we can use schedulers in daily life to automate our tasks,It can be used for any purpose. I've used google OR tools open source. 
 
-Introduction: 
 
-This project aimed to streamline and optimize the scheduling process for test centers within a valve manufacturing company. Currently, the scheduling process is manual, leading to inefficiencies and potential delays. To address this challenge, I explored the use of optimization tools to automate and improve the scheduling process.
+Execution steps: Copy the Java and JSON to your IDE. Add the link of the input1.json in your projects to the JAVA file and run the scheduler. You can change metrics/constraints as required. And modify the data and code as you see fit. 
+
 
 Selected Tool: 
 
