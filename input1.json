@@ -1,0 +1,38 @@
+{
+  "valves_info": [
+    {"valve_type": "Valve1_TC0", "test_center": 0, "processing_time": 2.3, "time_range": [8, 15]},
+    {"valve_type": "Valve2_TC0", "test_center": 0, "processing_time": 0.3, "time_range": [8, 15]},
+    {"valve_type": "Valve1_TC1", "test_center": 1, "processing_time": 0.3, "time_range": [8, 15]},
+    {"valve_type": "Valve2_TC1", "test_center": 1, "processing_time": 0.3, "time_range": [8, 15]},
+    {"valve_type": "Valve1_TC2", "test_center": 2, "processing_time": 0.3, "time_range": [8, 15]},
+    {"valve_type": "Valve2_TC2", "test_center": 2, "processing_time": 0.3, "time_range": [8, 15]},
+    {"valve_type": "Valve1_TC3", "test_center": 3, "processing_time": 0.3, "time_range": [8, 15]},
+    {"valve_type": "Valve2_TC3", "test_center": 3, "processing_time": 0.3, "time_range": [8, 15]},
+    {"valve_type": "Valve1_TC4", "test_center": 4, "processing_time": 0.3, "time_range": [8, 15]},
+    {"valve_type": "Valve2_TC4", "test_center": 4, "processing_time": 0.3, "time_range": [8, 15]},
+    {"valve_type": "Valve1_TC5", "test_center": 5, "processing_time": 0.3, "time_range": [8, 15]},
+    {"valve_type": "Valve2_TC5", "test_center": 5, "processing_time": 0.3, "time_range": [8, 15]}
+  ],
+  "shift_info": {
+    "Monday": [
+      {"start": 8, "end": 10},
+      {"start": 12, "end": 14}
+    ],
+    "Tuesday": [
+      {"start": 8, "end": 10},
+      {"start": 12, "end": 14}
+    ],
+    "Wednesday": [
+      {"start": 8, "end": 10},
+      {"start": 12, "end": 14}
+    ],
+    "Thursday": [
+      {"start": 8, "end": 10},
+      {"start": 12, "end": 14}
+    ],
+    "Friday": [
+      {"start": 8, "end": 10},
+      {"start": 12, "end": 14}
+    ]
+  }
+}
